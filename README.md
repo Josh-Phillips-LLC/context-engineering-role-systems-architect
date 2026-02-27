@@ -16,9 +16,16 @@ These files are generated artifacts and should not be manually edited:
 - `AGENTS.md`
 - `.github/copilot-instructions.md`
 - `.vscode/settings.json`
+- `scripts/bootstrap-governance-labels.sh`
+- `scripts/gh-safe-comment.sh`
+- `scripts/request-pr-review.sh`
+- `scripts/validate-pr-metadata.py`
 - `handbook/README.md`
 - `handbook/sops/README.md`
 - `handbook/runbooks/README.md`
+- `handbook/runbooks/general-governance-label-bootstrap.md`
+- `handbook/runbooks/general-github-commenting.md`
+- `handbook/runbooks/general-reviewer-request-preflight.md`
 - `handbook/templates/README.md`
 - `handbook/references/README.md`
 
@@ -62,5 +69,5 @@ Regenerate this repository from `Context-Engineering` using:
 
 ## Generation Metadata
 
-- Source ref: `6be7727`
-- Generated at (UTC): `2026-02-25T15:59:09Z`
+- Source ref: `d1608af`
+- Generated at (UTC): `2026-02-27T07:27:52Z`
